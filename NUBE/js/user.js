@@ -1,4 +1,4 @@
-const url = '../api/api.php';
+const url = '../NUBE/api/api.php';
 var data = [];
 
 function readAllRelojes() {

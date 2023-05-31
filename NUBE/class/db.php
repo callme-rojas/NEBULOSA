@@ -2,7 +2,7 @@
     $mqtt_secret = "";
     class Database {
         private $host = 'localhost';
-        private $database_name = 'relojoria';
+        private $database_name = 'relojeria';
         private $username = 'phpmyadmin';
         private $password = '12345';
         public $conn;
